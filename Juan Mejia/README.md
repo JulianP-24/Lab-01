@@ -32,6 +32,14 @@
 }
 ```
 
+# 4. Punto 4
+
+**Ejercicios main**\
+**Juan Mateo Mejia**\
+**Carnet : 2154840**
+
+![](main.PNG)
 
 
+**Ejercicios remote**\
 
