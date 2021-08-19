@@ -28,6 +28,15 @@ de mi agrado. Un ejemplo de este lengueaje:
     def diHola():
       print("Hello!")
     ```
+# 4. Git Branching #
+Ejercicios main\
+Julian Adolfo Peña\
+Carnet: 2146251\
+![Main](https://user-images.githubusercontent.com/88836360/129992724-c88e0ed2-afef-47fd-b260-8c969057db8b.PNG)
+
+Ejercicios Remote\
+![Remote](https://user-images.githubusercontent.com/88836360/129992892-22fb43b7-9519-4f20-bc58-546125469b6c.PNG)
+
 
 
    
